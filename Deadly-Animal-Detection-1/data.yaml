@@ -1,0 +1,7 @@
+names:
+- leopard
+- lion
+- tiger
+nc: 3
+train: Deadly-Animal-Detection-1/train/images
+val: Deadly-Animal-Detection-1/valid/images
