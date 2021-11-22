@@ -85,7 +85,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- CONTACT -->
 ## Contact
 
-* Jap Hirpara - [https://www.linkedin.com/in/jap-hirpara-0b42aa1a1/](https://www.linkedin.com/in/jap-hirpara-0b42aa1a1/) - jappatel1704@gmail.com
+* Jap Hirpara - [linkedIn profile](https://www.linkedin.com/in/jap-hirpara-0b42aa1a1/), email_id - jappatel1704@gmail.com
 * Mitali khunt - 
 * Mayur Asodara -
 
