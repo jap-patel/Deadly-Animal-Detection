@@ -71,7 +71,7 @@ we used google colab to run our yolov5 model to run it with gpu
 ## Usage
 
 we can use this project to detect the presence of dangerous animals around our surroundings as we have detected lion,tiger and loepard with it.
-* ![deadly animals detected image](deadly animals detected image.jfif)
+* <img src="deadly-animals-detected-image.jpg" alt="deadly animals detected image" width="500" height="600"/>
 
 <!-- LICENSE -->
 ## License
