@@ -2,16 +2,28 @@
 
 
 <!-- TABLE OF CONTENTS -->
-## Table of Contents
-
-* [About the Project](#about-the-project)
-  * [Built With](#built-with)
-* [Contributing](#contributing)
-* [License](#license)
-* [Let's Get Social](#lets-get-social)
-* [Contact](#contact)
-* [Acknowledgements](#acknowledgements)
-
+<details>
+  <summary>Table of Contents</summary>
+  <ol>
+    <li>
+      <a href="#about-the-project">About The Project</a>
+      <ul>
+        <li><a href="#built-with">Built With</a></li>
+      </ul>
+    </li>
+    <li>
+      <a href="#getting-started">Getting Started</a>
+      <ul>
+        <li><a href="#prerequisites">Prerequisites</a></li>
+        <li><a href="#installation">Installation</a></li>
+      </ul>
+    </li>
+    <li><a href="#usage">Usage</a></li>
+    <li><a href="#license">License</a></li>
+    <li><a href="#contact">Contact</a></li>
+    <li><a href="#acknowledgments">Acknowledgments</a></li>
+  </ol>
+</details>
 
 
 <!-- ABOUT THE PROJECT -->
@@ -26,6 +38,41 @@ we built a Deadly animal detection project with the use of yolov5 by using our c
 
 
 
+<!-- GETTING STARTED -->
+## Getting Started
+
+we used google colab to run our yolov5 model to run it with gpu
+
+### Prerequisites
+
+* python
+* roboflow
+
+### Installation
+
+1. Clone the repo
+   ```sh
+   git clone https://github.com/ultralytics/yolov5.git
+   ```
+2. Install required dependensies
+   ```sh
+   pip install -r requirements.txt
+   ```
+4. Enter your roboflow API of your custom dataset
+   ```js
+   const API_KEY = 'ENTER YOUR API';
+   ```
+
+<p align="right">(<a href="#top">back to top</a>)</p>
+
+
+
+<!-- USAGE EXAMPLES -->
+## Usage
+
+we can use this project to detect the presence of dangerous animals around our surroundings as we have detected lion,tiger and loepard with it.
+![deadly animals detected image](deadly animals detected image.jfif)
+
 <!-- LICENSE -->
 ## License
 
@@ -35,9 +82,9 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Jap Hirpara - [https://www.linkedin.com/in/jap-hirpara-0b42aa1a1/](https://www.linkedin.com/in/jap-hirpara-0b42aa1a1/) - jappatel1704@gmail.com
-Mitali khunt - 
-Mayur Asodara -
+* Jap Hirpara - [https://www.linkedin.com/in/jap-hirpara-0b42aa1a1/](https://www.linkedin.com/in/jap-hirpara-0b42aa1a1/) - jappatel1704@gmail.com
+* Mitali khunt - 
+* Mayur Asodara -
 
 Project Link: [https://github.com/jap-patel/Deadly-Animal-Detection](https://github.com/jap-patel/Deadly-Animal-Detection)
 
@@ -48,14 +95,3 @@ Project Link: [https://github.com/jap-patel/Deadly-Animal-Detection](https://git
 * [Ultralytics/yolov5](https://github.com/ultralytics/yolov5)
 * [Roboflow](https://roboflow.com/)
 
-
-
-
-
-<!-- MARKDOWN LINKS & IMAGES -->
-[contributors-shield]: https://img.shields.io/badge/contributors-1-orange.svg?style=flat-square
-[license-shield]: https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square
-[license-url]: https://choosealicense.com/licenses/mit
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/othneildrew
-[product-screenshot]: ./images/projects/portfolio.jpg
