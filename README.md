@@ -70,8 +70,8 @@ we used google colab to run our yolov5 model to run it with gpu
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-we can use this project to detect the presence of dangerous animals around our surroundings as we have detected lion,tiger and loepard with it.
-* <img src="deadly-animals-detected-image.jpg" alt="deadly animals detected image" width="500" height="600"/>
+we can use this project to detect the presence of dangerous animals around our surroundings just like we have detected lion,tiger and loepard with it.
+<img src="deadly-animals-detected-image.jpg" alt="deadly animals detected image" width="500" height="600"/>
 
 <!-- LICENSE -->
 ## License
