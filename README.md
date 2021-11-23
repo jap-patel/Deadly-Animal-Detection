@@ -86,8 +86,8 @@ Distributed under the MIT License. See `LICENSE` for more information.
 ## Contact
 
 * Jap Hirpara - [linkedIn profile](https://www.linkedin.com/in/jap-hirpara-0b42aa1a1/), email_id - jappatel1704@gmail.com
-* Mitali khunt - 
-* Mayur Asodara -
+* Mitali khunt - [linkedIn profile](https://www.linkedin.com/in/mitali-khunt-72a6551b1/), email_id - mitalikhunt19@gmail.com
+* Mayur Asodara - [linkedIn profile](https://www.linkedin.com/in/mayur-asodara-366067206), email_id - mayurasodara@gmail.com
 
 Project Link: [https://github.com/jap-patel/Deadly-Animal-Detection](https://github.com/jap-patel/Deadly-Animal-Detection)
 
